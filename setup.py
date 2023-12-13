@@ -1,3 +1,4 @@
+python -m build
 from setuptools import find_packages, setup
 
 with open("README.md", "r") as fh:
